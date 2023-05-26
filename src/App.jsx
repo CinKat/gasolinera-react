@@ -12,7 +12,7 @@ import Resume from './pages/Resume'
 function App() {
 
   return (
-    <Box>
+    <Box w="100%" h="100vh">
       <Navbar/>
       <Container>
         <Routes>
